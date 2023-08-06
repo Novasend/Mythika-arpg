@@ -99,7 +99,8 @@ main > .row {
 
 .site-header-image {
     background-color: #1c1917;
-    background-repeat: cover;
+    background-repeat: none;
+	background-size: cover;
     min-height: 64px;
 }
 
