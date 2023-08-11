@@ -80,7 +80,7 @@
 <body>
     <div id="app">
         <div class="site-header-image" id="header" style="background-image: url('{{ asset('images/img-header-bg.png') }}');">
-			<div style="background-image: url('{{ asset('images/img-logo.png') }}');"></div>
+			<div class="site-header-logo" style="background-image: url('{{ asset('images/img-logo.png') }}');"></div>
 		</div>
         @include('layouts._nav')
         @if ( View::hasSection('sidebar') )

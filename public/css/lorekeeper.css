@@ -104,6 +104,11 @@ main > .row {
     min-height: 64px;
 }
 
+.site-header-logo {
+	background-size: contain;
+	min-height: 58px;
+}
+
 .navbar .navbar-brand, .navbar .nav-item {
     text-transform: uppercase;
     font-family: Roboto Condensed, serif; 
