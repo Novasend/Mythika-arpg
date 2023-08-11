@@ -79,7 +79,9 @@
 </head>
 <body>
     <div id="app">
-        <div class="site-header-image" id="header" style="background-image: url('{{ asset('images/img-header-bg.png') }}');"></div>
+        <div class="site-header-image" id="header" style="background-image: url('{{ asset('images/img-header-bg.png') }}');">
+			<div style="background-image: url('{{ asset('images/img-logo.png') }}');"></div>
+		</div>
         @include('layouts._nav')
         @if ( View::hasSection('sidebar') )
 			<div class="site-mobile-header bg-secondary"><a href="#" class="btn btn-sm btn-outline-light" id="mobileMenuButton">Menu <i class="fas fa-caret-right ml-1"></i></a></div>
