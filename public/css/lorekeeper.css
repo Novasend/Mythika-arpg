@@ -105,6 +105,7 @@ main > .row {
 }
 
 .site-header-logo {
+    background-repeat: no-repeat;
 	background-size: contain;
 	min-height: 58px;
 }
