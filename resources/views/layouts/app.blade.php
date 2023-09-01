@@ -107,7 +107,7 @@
                         @yield('content')
                     </div>
 
-                    <div class="site-footer mt-auto" id="footer">
+                    <div class="site-footer mt-auto" id="footer" style="background-color: #1C1917;">
                             @include('layouts._footer')
                     </div>
                 </div>
