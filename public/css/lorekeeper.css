@@ -272,10 +272,6 @@ main > .row {
 		padding:0px;
 	}
     
-	.site-footer {
-		margin-top: auto !important;
-	}
-	
 	.site-footer .navbar .navbar-nav {
 		flex-wrap: wrap; 
 		justify-content: center;
