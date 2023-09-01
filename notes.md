@@ -1,0 +1,1 @@
+Run = turn on XAMPP Apache & MySQL, powershell `php artisan serve`
