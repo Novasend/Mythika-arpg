@@ -35,7 +35,7 @@
                                 My Characters
                             </a>
                             <a class="dropdown-item" href="{{ url('characters/myos') }}">
-                                My MYO Slots
+                                My Genos
                             </a>
                             <a class="dropdown-item" href="{{ url('inventory') }}">
                                 Inventory
