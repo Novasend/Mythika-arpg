@@ -6,7 +6,7 @@
 {!! breadcrumbs(['Users' => 'users', $user->name => $user->url, 'MYO Slots' => $user->url . '/myos']) !!}
 
 <h1>
-    {!! $user->displayName !!}'s MYO Slots
+    {!! $user->displayName !!}'s Genos
 </h1>
 
 @if($myos->count())
