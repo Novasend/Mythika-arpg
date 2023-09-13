@@ -23,7 +23,7 @@
         @endforeach
     </div>
 @else
-    <p>No MYO slots found.</p>
+    <p>No Genos found.</p>
 @endif
 
 @endsection
