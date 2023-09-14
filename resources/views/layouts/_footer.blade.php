@@ -7,4 +7,4 @@
         <li class="nav-item"><a href="{{ url('info/contact-us') }}" class="nav-link" style="color: #991b1b">Contact Us</a></li>
     </ul>
 </nav>
-<div class="copyright" style="color: #F5F5F450;">Mythika-ARPG &copy; NovasEnd - All Rights Reserved {{ Carbon\Carbon::now()->year }}</div>
+<div class="copyright" style="color: #F5F5F450;">Mythika-ARPG &copy; Zyruinova - All Rights Reserved {{ Carbon\Carbon::now()->year }}</div>
